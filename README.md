@@ -2,6 +2,9 @@
 
 Welcome! This is the sandbox repository for the [Foundations of Git](https://learn.gitkraken.com) course. Use this repository for exercise lessons, or as a sandbox for your own exploration.
 
+Test up
+
+
 ## Cloning with GitKraken Client
  
  1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) the repo on GitHub 
@@ -17,4 +20,5 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
 
 PLY TEST MANDAG
 
-Test af branch 2
+
+Test 2
