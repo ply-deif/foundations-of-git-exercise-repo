@@ -5,6 +5,8 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
 Test up
 
 
+Test friday
+
 ## Cloning with GitKraken Client
  
  1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) the repo on GitHub 
